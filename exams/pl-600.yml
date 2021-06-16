@@ -1,0 +1,75 @@
+### YamlMime:Examination
+title: 'Microsoft Power Platform Solution Architect (beta)'
+metadata:
+  title: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
+  description: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
+uid: exam.pl-600
+displayName: PL-600
+summary: |-
+  Microsoft Power Platform solution architects lead successful implementations and focus on how solutions address the broader business and technical needs of organizations.
+  
+  A solution architect has functional and technical knowledge of the Power Platform, Dynamics 365 customer engagement apps, related Microsoft cloud solutions, and other third-party technologies. A solution architect applies knowledge and experience throughout an engagement. The solution architect performs proactive and preventative work to increase the value of the customer’s investment and promote organizational health. This role requires the ability to identify opportunities to solve business problems.
+  
+  Solution architects have experience across functional and technical disciplines of the Power Platform. Solution architects should be able to facilitate design decisions across development, configuration, integration, infrastructure, security, availability, storage, and change management. This role balances a project's business needs while meeting functional and non-functional requirements.
+  
+  <div><br/><font color='red'><strong>Beta exams are not scored immediately because we are gathering data on the quality of the questions and the exam. <a href="/learn/certifications/beta-exams">Learn more about the value and importance of beta exams.</a></strong></font></div>
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: perform solution envisioning and requirement analyses; architect a solution; and implement the solution.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=PL-600&examname=Exam%20PL-600:%20Microsoft%20Power%20Platform%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-600
+locales:
+- en
+levels:
+- advanced
+skills:
+- Perform solution envisioning and requirement analyses (35-40%)
+- Architect a solution (40-45%)
+- Implement the solution (15-20%)
+roles:
+- developer
+- functional-consultant
+- solution-architect
+products:
+- dynamics-365
+- power-platform
+- ai-builder
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+- azure
+- azure-active-directory
+- azure-active-directory-domain
+- dynamics-customer-engagement
+- common-data-service
+- azure-api-apps
+- azure-app-configuration
+- azure-app-service
+paths:
+- uid: learn-dynamics.become-solution-architect
+- uid: learn-bizapps.solution-architect-design
+relatedCertifications:
+- related:
+    uid: certification.power-platform-solution-architect-expert
+resources:
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://aka.ms/TrainingCertDeck
+- title: Certification poster
+  description: Check out an overview including fundamentals, role-based and specialty certifications for Dynamics 365 and Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

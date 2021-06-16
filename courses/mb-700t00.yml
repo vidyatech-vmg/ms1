@@ -1,0 +1,434 @@
+### YamlMime:Course
+title: 'Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
+metadata:
+  title: 'Course MB-700T00-A: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
+  description: 'Course MB-700T00-A: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
+uid: course.mb-700t00
+courseNumber: 'MB-700T00-A'
+hoursToComplete: 72
+skillsGained:
+- skill: Define skill areas for solution architect role
+- skill: Explain instances & deployment models recommendations by Microsoft
+- skill: Understand cloud solution, CDM & CDS
+- skill: Get more info on Licensing, AppSource & Support for Dynamics 365
+- skill: Use Lifecycle services as solution architect
+- skill: Know the considerations for blueprinting Dynamics 365 solution
+- skill: Understand the concepts and tools used for data management
+- skill: Explain the Integration options & Business events on solutions
+- skill: Know the available options on solution localization, compliance & reporting
+- skill: Have architectural conversations on extensibility, security, & performance
+- skill: Know what is ALM application lifecycle management
+- skill: Identify opportunities for automated testing and using RSAT
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- dynamics-365
+exams:
+- uid: exam.mb-700
+summary: |-
+  This course is developed for those aspired to be and new to the solution architect role. This course provides the technical information focusing on application architecture and technical skills to start their journey into this role. This course will not cover the industrial skills and delivery skills required for this role.
+
+  #### Audience profile
+  
+  The audience for this course should have previous experience with functional or technical focus in Dynamics 365&#58; Finance and Operations Applications. 
+  Primarily for those who are aspired to be and new to solution architect role.  
+prerequisitesSection: |-
+  You must complete the solution architect learning path for solution architects: [Here](/learn/browse/?roles=solution-architect&products=dynamics-finance-operations)
+outlineSection: |-  
+  ### Module 1&#58; The Architect Role
+  The solution architect is one of the most critical roles for delivering success to Microsoft customers, and it requires many skills. This course primarily focuses on technical skills. 
+  
+  Other topics in this module provide overviews of other skill areas that might be helpful for understanding the solution architect role. These skill areas include&#58; 
+  
+  Delivery skills  
+  The ability to deliver a business solution to your customer. 
+  
+  Industry skills  
+  The accumulated knowledge obtained about a certain industry.
+  
+  Soft skills  
+  Skills that help you communicate with others, from co-workers to customers.
+  #### Lessons
+  -	Solution architect skills
+  -	Recap the solution architect learning path
+  -	Group exercise
+  
+  After completing this module, the students should be able to
+  -	Refresh the knowledge obtained by online content for solution architects
+  -	List the skills needed for a solution architect
+
+  ### Module 2&#58; Environment, Instances & Deployment Models
+  Topics and concepts in this module include&#58;
+  
+  Instance strategy  
+  Dynamics 365 Finance and Operations solutions can be deployed with multiple instances, which some organizations consider for scalability or security and privacy reasons.
+  
+  Environment planning  
+  Environment planning helps provide a clear understanding of what environment(s) are required for which task(s) for a planned duration.
+  
+  Infrastructure design  
+  Key considerations for Dynamics 365 infrastructure design are discussed in this topic.
+  
+  Deployment models  
+  Cloud-hosted and on-premises deployments have different requirements, which are discussed in this section.
+  #### Lessons
+  -	Instance strategy
+  -	Environment planning
+  -	Infrastructure & deployment
+  -	Group exercise
+
+  After completing this module, the students should be able to
+  - Understand the purpose of environment planning
+  -	Know the differences between the different managed environments
+  -	Explain each of the initial infrastructure requirements
+  -	Describe hardware configuration needs for on-premises Dynamics 365 deployments
+  -	Discuss the four primary security requirements solution architects should focus on during design
+  -	Describe the primary drivers and usage of instance strategy.
+  
+  
+  ### Module 3&#58; Cloud Solution, CDM & CDS
+  Topics and concepts in this module include&#58; 
+  
+  CDM and CDS core concepts  
+  Explanations of these data-sharing technologies. 
+  
+  CDM vs. CDS  
+  A brief discussion of how these technologies interact and complement each other. 
+  
+  Power Platform  
+  This topic explores some of the components of Power Platform, the Microsoft business application platform. 
+  
+  Dual Write  
+  A brief explanation of a new bi-directional integration functionality that Microsoft unveiled in 2019.   
+  #### Lessons
+  - Introduction
+  -	CDM and CDS core concepts
+  -	Power Platform
+  -	Dual Write
+  -	Group Exercise
+
+  After completing this module, the students should be able to
+  - Converse with customers about what CDM means
+  -	Discuss the functionality that the Common Data Service (CDS) provides
+  -	Explain Microsoft Power Platform and its primary components
+  -	Discuss the Dual Write functionality
+  -	Explain what the Microsoft Common Data Model is
+  
+  
+  ### Module 4&#58; Licensing, AppSource & Support
+  Topics in this module include&#58; 
+  
+  Licensing requirements  
+  Having the appropriate licensing in place is an important aspect of deploying Dynamics 365 for Finance and Operations solutions.
+  
+  Microsoft-certified ISV solutions  
+  AppSource, a rich source of information about ISV (independent software vendor) solutions that have been certified by Microsoft, can be used to identify solutions that can complement projects that you’re involved with. 
+  
+  Support options  
+  Knowing which support options are available as well as other support considerations can be important to a project’s success. 
+  #### Lessons
+  - Introduction
+  -	Licensing
+  -	AppSource
+  -	Support
+  
+  After completing this module, the students should be able to 
+  - Discuss the different ways the subscriptions for licenses can be obtained
+  -	Determine whether an ISV might have an existing solution registered
+  -	Describe the steps required to finalize the support strategy and assess readiness for go-live
+  -	Explain the different aspects of the five different support plans
+  -	Explain the six considerations the solution architect and project team need to know
+  -	Describe the licensing requirements for Dynamics 365 for Finance and Operations solutions
+  
+  
+  ### Module 5&#58; Lifecycle services
+  Topics in this module include&#58; 
+  
+  Core LCS features and concepts  
+  Brief definitions for many LCS features and concepts that enable closer collaboration, speed implementations, and reduce time to value. 
+  
+  The role and function of Azure DevOps and how to connect to LCS  
+  LCS can take advantage of the tools in Azure DevOps to track implementation and associate work items with requirements and business processes, including bugs, tasks, backlog items, tests, and documents. 
+  #### Lessons
+  - Introduction
+  -	Core features and concepts
+  -	Understand the role and function of Azure DevOps and how to connect to LCS
+  -	Group exercise
+
+  After completing this module, the students should be able to 
+  - Explain the functionality of five or more tools and/or features provided by LCS
+  -	Explain the benefit of synchronizing a Business Process Modeler (BPM)
+  -	Describe the role and function of Azure DevOps when connecting to LCS
+  -	Describe three or more functions of LCS and the benefits it provides during solution implementation
+  
+  ### Module 6&#58; Blueprinting Dynamics 365 solutions
+  Topics include&#58; 
+  
+  Develop a solution blueprint  
+  Reviews Process, Application, Data, Integration, Intelligence, Security, Continuous Update, Platform, and Timeline architecture considerations. 
+  
+  Engage FastTrack in solution blueprint review  
+  Reviews the benefits of engaging a Microsoft FastTrack architect and/or team to review solution blueprints to help ensure a positive customer outcome. 
+  #### Lessons
+  - Introduction
+  -	Develop a solution blueprint
+  -	Engage FastTrack in solution blueprint review
+  
+  After completing this module, the students should be able to 
+  - Engage a customer in conversation about the benefits of engaging a FastTrack architect or team
+  -	Describe the benefits of having the project team compare and evaluate the functional requirements
+  -	Discuss and explain the different forms of architecture involved when creating a solution blueprint
+  
+  
+  ### Module 7&#58; Data Management
+  The topic of data management is broad, and it has many ramifications when deploying Dynamics 365. Four key considerations are discussed&#58; 
+  
+  Data migration strategy  
+  Based on what data is needed for
+  
+  Cutover plan  
+  Considerations include what data needs to be brought in during cutover and whether any data needs to be manually entered 
+  
+  Tools and framework  
+  Different tools and frameworks are available for different scenarios 
+  
+  Data retention plan  
+  Considerations include what data needs to be stored for business operation and compliance purposes 
+  #### Lessons
+  - Introduction
+  -	Data management
+  -	Key considerations
+  -	Group exercise
+
+  After completing this module, the students should be able to
+  - Articulate the questions a solution architect needs to ask when identifying data quality issues
+  -	Explain the questions a solution architect needs to ask prior to data migration
+  -	Describe the necessary data migration plan qualifications
+  -	Discuss the sequence and dependency of data migration steps
+  -	Discuss the solution architect’s role in data migration
+  -	Explain the top three questions solution architects should ask during the cutover process
+  -	Set up, navigate, and use the tools available in Microsoft Dynamics Lifecycle Services (LCS)
+  -	Discuss the recommended approaches when dealing with high-volume data migration
+  -	Discuss the key elements of data management
+  
+  
+  ### Module 8&#58; Integration & Business events
+  Topics in this module include&#58; 
+  
+  Integration  
+  This topic is primarily focused on integration strategy, system integrations, and integration platforms and tools.
+  
+  Business events  
+  Business events is a new integration method that has been added to Dynamics 365 and has been largely adopted.
+  
+  Endpoints  
+  Endpoints let you manage the destinations for the sending of business events. 
+  #### Lessons
+  - Introduction
+  -	Integration
+  -	Business events
+  -	Endpoints
+  -	Group exercise
+
+  After completing this module, the students should be able to
+  - Describe the differences and similarities between integration and data migration
+  -	Distinguish and articulate the differences between interface and integrations
+  -	Discuss the common platforms and tools that are available to implement the integration strategy
+  -	Explain the functionality of business events and endpoints, their purpose, and basic considerations
+  -	Discuss the primary considerations that drive integration strategy
+  
+  
+  ### Module 9&#58; Localization, Compliance & Reporting
+  Topics in this module include&#58; 
+  
+  Localization  
+  The process of localization is used to adapt a product or content to a specific location or market.  
+  
+  Compliance  
+  Compliance is the state or fact of according with or meeting rules or standards and is often required by governmental agencies. 
+  
+  Reporting  
+  Reporting capabilities can be important for localization and for compliance verification. 
+  #### Lessons
+  - Introduction
+  -	Localization
+  -	Compliance
+  -	Reporting
+  -	Group exercise
+  
+  After completing this module, the students should be able to
+  - Discuss the need for ISV solution providers
+  -	Describe the four common frameworks for audit and compliance
+  -	Explain compliance recommendations
+  -	Discuss the solution architect’s role in identifying the best tool to deliver reporting
+  -	Discuss the four questions that must be answered during of requirements gathering
+  -	Identify the localization functionalities
+  
+  
+  ### Module 10&#58; Extensibility
+  Topics include&#58; 
+  
+  Intrusive customization 
+  A brief review of the issue of intrusive customization and why it’s become difficult to manage. 
+  
+  Benefits of extensibility  
+  Why extensibility is a better type of customization. 
+  
+  Extensibility options  
+  A listing of available common extensibility options.
+  
+  Extensibility requests  
+  How to make an extensibility request to Microsoft when necessary.
+  #### Lessons
+  - Introduction
+  -	Intrusive customization
+  -	Benefits of extensibility
+  -	Extensibility options
+  -	Extensibility requests
+  
+  After completing this module, the students should be able to
+  - Explain the benefits of extensibility
+  -	Discuss the difference between overlayering and extensibility
+  -	Discuss the available common extensibility options
+  -	Determine the best way to make an extensibility request
+  -	Discuss with customers the issue of intrusive customization
+  
+  
+  ### Module 11&#58; Security
+  Topics in this module include&#58; 
+  
+  Enterprise resource planning (ERP) security consists of a wide range of measures to protect systems from illicit access and ensure accessibility and integrity of system data. This module discusses the following security-related topics&#58; 
+  
+  Advise on security and compliance requirements  
+  The process of localization is used to adapt a product or content to a specific location or market. 
+  
+  Security design  
+  Compliance is the state or fact of according with or meeting rules or standards and is often required by governmental agencies. 
+  
+  Tools and features  
+  Reporting capabilities can be important for localization and for compliance verification
+  #### Lessons
+  - Introduction
+  -	Advise on security and compliance requirements
+  -	Security design
+  -	Tools and features
+  
+  After completing this module, the students should be able to 
+  - Discuss the four primary security requirements solution architects should focus on during design
+  -	Identify and explain current Microsoft customer protection offerings
+  -	Discuss authentication, authorization, data security, and auditing considerations
+  -	Identify available tools and features that project teams can use to manage security
+  -	Give an example of considerations for security that determine how each helps to define the security
+  
+  
+  ### Module 12&#58; Performance
+  Topics include&#58; 
+  
+  Performance benchmarks  
+  Recommendations and guidance for properly defining benchmarks
+  
+  Performance design  
+  Key considerations for performance design  
+  
+  Patterns  
+  Recommendations for key patterns to observe during design 
+  
+  Testing and tools  
+  Performance testing prerequisites and a list if existing performance tools 
+  #### Lessons
+  - Introduction
+  -	Define performance benchmarks and requirements
+  -	Performance design
+  -	Key patterns
+  -	Performance testing and tools
+  -	Group Exercise
+  
+  After completing this module, the students should be able to 
+  - Discuss the benefits and impact of well-defined benchmarks
+  -	Explain the impact of the solution architect’s role when gathering system performance requirements
+  -	Discuss the key performance design considerations of scalability, concurrency, and response time
+  -	Explain the prerequisites ensuring the relevance and accuracy of performance
+  -	Determine which specific performance tools can be used
+  -	Apply an example of a performance goal
+  
+  
+  ### Module 13&#58; Application Lifecycle Management
+  Topics in this module include&#58; 
+  
+  Version control  
+  Used to help resolve concerns over consistency in solution management. 
+  
+  Development  
+  Concepts, terminology, and core considerations. 
+  
+  Build  
+  Requirements, recommendations, and considerations. 
+  
+  Deployment  
+  Key considerations for deployment into runtime environments. 
+  #### Lessons
+  - Introduction
+  -	Version control
+  -	Development
+  -	Build
+  -	Deployment
+  
+  After completing this module, the students should be able to
+  - Discuss how the use of DevOps helps synchronize business processes
+  -	Explain the primary benefits of version control
+  -	Discuss core concepts and considerations for development
+  -	Explain build process requirements, recommendations, and considerations
+  -	Discuss key considerations for deployment
+  -	Define the solution architect’s responsibilities when identifying the best ALM
+  
+  
+  ### Module 14&#58; Automated Testing & RSAT
+  Topics include&#58; 
+  
+  Understand the test options  
+  Four types of testing are performed throughout a Dynamics 365 implementation. This topic reviews these testing types and discusses the importance of the quality and coverage of use cases. 
+  
+  Summarize testing strategy and plan  
+  This topic discusses the reasons why a detailed testing strategy is necessary for several reasons and provides guidance about what a comprehensive testing plan should include. 
+  
+  Available tools for testing  
+  This topic identifies the Regression Suite Automation Tool (RSAT) as well as other available tools that can be used for testing, including the Performance SDK and the Data Expansion Tool. 
+  #### Lessons
+  - Introduction
+  -	Understand the test options
+  
+  After completing this module, the students should be able to
+  - Explain the impact of the solution architect’s role when gathering system performance requirements
+  -	Discuss the various elements and considerations involved in developing a testing strategy
+  -	Describe the customer options available for using testing solutions
+  -	Discuss the primary functionality and purpose of each of the four types of testing  
+  
+  ### Module 15&#58; Additional Areas for Architects
+  This module provides information about additional considerations that were not covered in the preceding modules.
+  Topics include&#58; 
+  
+  Overview of the upgrade process  
+  Lays out the typical high-level steps for project teams to complete an upgrade. 
+  
+  Special considerations  
+  Provides guidance for handling attachments, large databases, and other miscellaneous upgrade scenarios. 
+  
+  Printing scenarios in Dynamics 365  
+  Describes printing options as well as print management configuration options. 
+  #### Lessons
+  - Introduction
+  -	Overview of the upgrade process
+  -	Special considerations
+  -	Printing scenarios in Dynamics 365
+  -	High-level Implementation Phases
+  
+  After completing this module, the students should be able to
+  - Discuss attachment and database size considerations
+  -	Explain document printing and print management concepts for Dynamics 365
+  -	Explain the high-level steps of the upgrade process

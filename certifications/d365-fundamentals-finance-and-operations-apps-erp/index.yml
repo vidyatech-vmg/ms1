@@ -1,0 +1,71 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
+  description: 'If you have a broad exposure to the enterprise resource planning (ERP) capabilities of Dynamics 365 and understand the fundamentals of how finance and operations apps fit in within the overall Microsoft ecosystem—this certification is for you.'
+uid: certification.d365-fundamentals-finance-and-operations-apps-erp
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  If you have a broad exposure to the enterprise resource planning (ERP) capabilities of Dynamics 365 and understand the fundamentals of how finance and operations apps fit in within the overall Microsoft ecosystem—this certification is for you.
+  
+  People who are familiar with business operations, have a fundamental understanding of financial principles, and are information technology savvy—either generally or through work experience—can use this certification to validate those skills and help open career doors.
+  
+  This fundamentals certification can be used in a variety of ways by people at different stages of their careers. Here are some examples&#58;
+  - IT professionals who want to highlight their broad understanding of the applications they work with
+  - Technical professionals and business decision makers who are exploring how Dynamics 365 functionality can integrate with apps they’re using
+  - Business stakeholders and others who use Dynamics 365 and want to demonstrate that they understand the fundamentals of the platform
+  - Developers who want to show a deeper understanding of business operations, finance, and ERP
+  - Students, recent graduates, and people changing careers who want to make the most of Dynamics 365 finance and operations apps to move to the next level
+subTitle: 'If you have a broad exposure to the enterprise resource planning (ERP) capabilities of Dynamics 365 and understand the fundamentals of how finance and operations apps fit in within the overall Microsoft ecosystem—this certification is for you.'
+levels:
+- beginner
+skills:
+- Describe Dynamics 365 Supply Chain Management
+- Describe Dynamics Finance
+- Describe Dynamics 365 Commerce
+- Describe Dynamics 365 Human Resources
+- Describe Project Operations
+- Describe shared features
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+type: fundamentals
+products: 
+- dynamics-365
+- dynamics-finance-operations
+paths:
+- uid: learn.wwl.explore-microsoft-dynamics-365-supply-chain-management
+- uid: learn.wwl.explore-microsoft-dynamics-365-finance
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-commerce
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-human-resources
+- uid: learn.wwl.explore-microsoft-dynamics-365-project-operations-erp
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JKOU
+exams:
+- uid: exam.mb-920
+resources:
+- title: Certification poster
+  description: Check out an overview including fundamentals, role-based and specialty certifications for Dynamics 365 and Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Journey to certification
+  description: Explore steps to get certified and the resources available to help you prepare.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAWQX
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://aka.ms/TrainingCertDeck
+- title: Certification learning path
+  description: Recommended training resources to help you prepare for required exams and earn your certification.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAFfQ
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Share your certification badges
+  description: Celebrate your accomplishment with your network. Claim your Microsoft Certification badge, and add it to LinkedIn, your résumé, and more.
+  href: ../badges.md

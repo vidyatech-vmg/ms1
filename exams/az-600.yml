@@ -1,0 +1,64 @@
+### YamlMime:Examination
+title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub
+metadata:
+  title: 'Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+  description: 'Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+uid: exam.az-600
+displayName: AZ-600
+summary: |-
+  Candidates for Exam AZ-600 are Azure administrators or Azure Stack Hub operators who provide cloud services to end users or customers from within their own datacenter using Azure Stack Hub.
+  
+  Candidates for this exam should have significant experience managing and operating Azure Stack Hub environments. They should have a strong understanding of Azure, in addition to some knowledge of virtualization, networking, and identity management. They need to understand how Azure Stack Hub enables DevOps processes and the hybrid development model.
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: provide services; implement data center integration; manage identity and access; and manage infrastructure.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Lwq9
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-600&examname=Exam%20AZ-600:%20Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-600
+locales:
+- en
+levels:
+- advanced
+skills:
+- Provide services (30-35%)
+- Implement data center integration (15-20%)
+- Manage identity and access (10-15%)
+- Manage infrastructure (30-35%)
+roles:
+- administrator
+products:
+- azure
+- azure-stack
+- azure-stack-edge
+- azure-stack-hci
+- azure-stack-hub
+- azure-app-service
+- azure-event-hubs
+- azure-active-directory
+courses:
+- uid: course.az-600t00
+relatedCertifications:
+- related:
+    uid: certification.azure-stack-hub-operator
+resources:
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://aka.ms/TrainingCertDeck
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

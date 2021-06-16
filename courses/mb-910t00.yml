@@ -1,0 +1,207 @@
+### YamlMime:Course
+title: 'Microsoft Certified:  Dynamics 365 Fundamentals (CRM)'
+metadata:
+  title: 'Course MB-910T00--A: Microsoft Certified:  Dynamics 365 Fundamentals (CRM)'
+  description: 'Course MB-910T00--A: Microsoft Certified:  Dynamics 365 Fundamentals (CRM)'
+uid: course.mb-910t00
+courseNumber: 'MB-910T00'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describe the capabilities and functionality of Dynamics 365 Marketing
+- skill: Describe the capabilities and functionality of Dynamics 365 Sales
+- skill: Describe the capabilities and functionality of Dynamics 365 Customer Service
+- skill: Describe the capabilities and functionality of Dynamics 365 Field Service
+- skill: Describe the capabilities and functionality of Dynamics 365 Project Operations (CRM)
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- business-owner
+products:
+- dynamics-365
+summary: |-
+  This course will provide you with a broad introduction to the customer engagement capabilities of Dynamics 365. You will become familiar with the concept of customer engagement, as well as each of the customer engagement apps, including Dynamics 365 Marketing, Dynamics 365 Sales, Dynamics 365 Customer Service, Dynamics 365 Field Service, and the customer relationship management (CRM) capabilities of Dynamics 365 Project Operations. This course will include lecture as well as hands-on labs.
+
+  #### Audience Profile
+
+  People in different roles and at various stages in their careers can benefit from this fundamentals course. This includes IT professionals, business stakeholders and others who want to be exposed to the customer engagement capabilities of Dynamics 365, students, recent graduates, and people changing careers who want to leverage Dynamics 365 to move to the next level.
+prerequisitesSection: Learners should have a fundamental understanding of customer engagement principles and business operations. An understanding of cloud computing is helpful, but isn't necessary.
+outlineSection: |-
+  ### Module 1: Module 1: Learn the Fundamentals of Dynamics 365 Marketing
+
+  This module covers the basic concepts of customer engagement and what the customer engagement apps have in common before diving into Dynamics 365 Marketing. We begin with the standard marketing business processes and how Marketing addresses those. Then we examine the product capabilities. Finally, we cover additional marketing apps such as LinkedIn Campaign Manager, Dynamics 365 Customer Voice and Dynamics 365 Customer Insights.
+
+  #### Lessons
+
+  *   Get introduced to the Dynamics 365 customer engagement apps
+
+  *   Examine Dynamics 365 Marketing
+
+  *   Describe Dynamics 365 Marketing capabilities
+
+  *   Review Additional Marketing Apps
+
+  #### Lab : Working with customer engagement apps
+
+  ####
+
+  #### Lab : Manage Customers and Activities
+
+  ####
+
+  #### Lab : Search and filter data
+
+  ####
+
+  #### Lab : Dynamics 365 Marketing Capstone Lab
+
+  ####
+
+  *   Create a marketing email
+
+  *   Create a Segment in Dynamics 365 Marketing
+
+  *   Create a Customer Journey
+
+  After completing this module, students will be able to:
+
+  *   Describe the customer engagement apps and what they have in common
+
+  *   Describe the standard marketing processes and how Dynamics 365 Marketing addresses them
+
+  *   Describe Dynamics 365 Marketing features and capabilities
+
+  *   Describe additional marketing apps
+
+  ### Module 2: Module 2: Learn the Fundamentals of Dynamics 365 Sales
+
+  This module provides an introduction to Dynamics 365 Sales. We begin with the standard sales business processes and how Sales addresses those. Then we examine the product capabilities. Finally, we cover additional sales apps such as Sales Insights and Sales Navigator.
+
+  #### Lessons
+
+  *   Explore Dynamics 365 Sales
+
+  *   Manage the sales lifecycle with Dynamics 365 Sales
+
+  *   Review additional sales apps
+
+  #### Lab : Dynamics 365 Sales Capstone Lab
+
+  ####
+
+  *   Create and qualify a Lead
+
+  *   Manage a sales Opportunity
+
+  After completing this module, students will be able to:
+
+  *   Describe the standard sales processes and how Dynamics 365 Sales addresses them
+
+  *   Describe Dynamics 365 Sales capabilities
+
+  *   Describe additional sales apps such as Sales Insights and Sales Navigator
+
+  ### Module 3: Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
+
+  This module provides an introduction to Dynamics 365 Customer Service. We begin with the standard customer service business processes and how Customer Service addresses those. Then we examine the product capabilities. Finally, we cover additional customer service apps such as Omnichannel for Customer Service, Dynamics 365 Customer Service Insights, Customer Service Scheduling and Connected Customer Service.
+
+  #### Lessons
+
+  *   Examine Dynamics 365 Customer Service
+
+  *   Describe Dynamics Customer Service capabilities
+
+  *   Review additional customer service apps
+
+  #### Lab : Dynamics 365 Capstone Lab
+
+  ####
+
+  *   Create and publish a Knowledge Article
+
+  *   Manage a support Case through its life cycle
+
+  After completing this module, students will be able to:
+
+  *   Describe the standard customer service processes and how Dynamics 365 Customer Serviceaddresses them
+
+  *   Describe Dynamics Customer Service capabilities
+
+  *   Describe additional sales apps such as Sales Insights and Sales Navigator
+
+  ### Module 4: Module 4: Learn the Fundamentals of Dynamics 365 Field Service
+
+  This module provides an introduction to Dynamics 365 Field Service. We begin with the standard field service business processes and how Field Service addresses those. Then we examine the product capabilities, including work order generation, scheduling, inventory management and asset management.
+
+  #### Lessons
+
+  *   Examine Dynamics Field Service
+
+  *   Generate Work Orders in Dynamics 365 Field Service
+
+  *   Describe the scheduling capabilities of Dynamics 365 Field Service
+
+  *   Examine the inventory management capabilities of Dynamics 365 Field Service
+
+  *   Review the asset management capabilities of Dynamics 365 Field Service
+
+  #### Lab : Dynamics 365 Capstone Lab
+
+  ####
+
+  *   Create a Case and escalate to a Work Order
+
+  *   Schedule items with Dynamics 365 Field Service
+
+  After completing this module, students will be able to:
+
+  *   Describe the standard field service business processes and how Dynamics 365 Field Service addresses
+
+  *   Describe how to generate Work Orders
+
+  *   Describe the scheduling capabilities of Dynamics 365 Field Service
+
+  *   Describe the inventory management capabilities of Dynamics 365 Field Service
+
+  *   Describe the asset management capabilities of Dynamics 365 Field Service
+
+  ### Module 5: Module 5: Learn the Fundamentals of Dynamics 365 Project Operations (CRM)
+
+  This module provides an introduction to the customer engagement aspects of Dynamics 365 Project Operations. We begin with the standard project-based business processes and how Project Operations addresses those. Then we examine the product capabilities, including sales, project management, and resource utilization.
+
+  #### Lessons
+
+  *   Examine Dynamics 365 Project Operations
+
+  *   Describe the sales capabilities of Dynamics 365 Project Operations
+
+  *   Plan projects with Dynamics 365 Project Operations
+
+  *   Review the resource utilization capabilities of Dynamics 365 Project Operations
+
+  #### Lab : Dynamics 365 Project Operations Capstone Lab
+
+  ####
+
+  *   Create a project-based Lead
+
+  *   Manage a project-based Opportunity
+
+  *   Create a Project Quote and Project Estimate
+
+  After completing this module, students will be able to:
+
+  *   Describe project-based customer engagement processes addressed by Dynamics 365 Project Operations
+
+  *   Describe the sales capabilities of Dynamics 365 Project Operations
+
+  *   Describe the project management capabilities of Dynamics 365 Project Operations
+
+  *   Describe the resource utilization capabilities of Dynamics 365 Project Operations
+
+  #### Additional Reading
+
+  Please review the content associated with this course on Microsoft Learn. Please note that there is a separate learning path per product.

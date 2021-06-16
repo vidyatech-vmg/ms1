@@ -1,0 +1,74 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform Solution Architect Expert'
+metadata:
+  title: 'Microsoft Certified: Power Platform Solution Architect Expert'
+  description: Power Platform Solution Architect Experts work with stakeholders and focus on solutions that affect their organization’s broad business and technical needs. Candidates have functional and technical knowledge of Power Platform, Dynamics 365 customer engagement apps, related Microsoft cloud solutions, and third-party technologies.
+uid: certification.power-platform-solution-architect-expert
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  If you’re looking to prove your expertise as a Microsoft Power Platform or Microsoft Dynamics 365 solution architect, or if you’re a developer or a senior consultant ready to take the next step to become a solution architect, this expert certification can help you move forward in your career.
+  
+  As a candidate for the Power Platform Solution Architect Expert certification, you work with stakeholders and focus on solutions that affect your organization’s broad business and technical needs. You have functional and technical knowledge of Power Platform, Dynamics 365 customer engagement apps, related Microsoft cloud solutions, and third-party technologies. For this certification, you need a minimum of 1 to 3 years as a Power Platform solution architect or 7 to 10 years as a senior consultant or developer, along with deep knowledge of Power Platform architecture.
+  
+  If you need additional experience before you try for this certification, here are some suggestions&#58;
+  - Work as (or shadow) a solution architect on Power Platform projects.
+  - Sign up for an instructor-led training course.
+  - Explore available learning paths on [Microsoft Learn](/learn/paths/become-solution-architect/).
+subTitle: Power Platform Solution Architect Experts work with stakeholders and focus on solutions that affect their organization’s broad business and technical needs. Candidates have functional and technical knowledge of Power Platform, Dynamics 365 customer engagement apps, related Microsoft cloud solutions, and third-party technologies.
+levels:
+- advanced
+skills:
+- Perform solution envisioning and requirement analyses
+- Architect a solution
+- Implement the solution
+roles:
+- developer
+- functional-consultant
+- solution-architect
+type: role-based
+products:
+- dynamics-365
+- power-platform
+- ai-builder
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+- azure
+- azure-active-directory
+- azure-active-directory-domain
+- dynamics-customer-engagement
+- common-data-service
+- azure-api-apps
+- azure-app-configuration
+- azure-app-service
+paths:
+- uid: learn-dynamics.become-solution-architect
+- uid: learn-bizapps.solution-architect-design
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56P
+exams:
+- uid: exam.pl-600
+prerequisites:
+- uid: certification.power-platform-functional-consultant-associate
+  isOptional: false
+- uid: certification.power-platform-developer-associate
+  isOptional: false
+resources:
+- title: Certification poster
+  description: Check out an overview including fundamentals, role-based and specialty certifications for Dynamics 365 and Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://aka.ms/TrainingCertDeck
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Share your certification badges
+  description: Celebrate your accomplishment with your network. Claim your Microsoft Certification badge, and add it to LinkedIn, your résumé, and more.
+  href: ../badges.md
