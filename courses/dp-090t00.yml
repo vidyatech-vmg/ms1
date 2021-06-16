@@ -1,0 +1,129 @@
+### YamlMime:Course
+title: Implementing a Machine Learning Solution with Microsoft Azure Databricks
+metadata:
+  title: 'Course DP-090T00--A: Implementing a Machine Learning Solution with Microsoft Azure Databricks'
+  description: 'Course DP-090T00--A: Implementing a Machine Learning Solution with Microsoft Azure Databricks'
+uid: course.dp-090t00
+courseNumber: 'DP-090T00'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Provision an Azure Databricks workspace and cluster
+- skill: Use Azure Databricks to train a machine learning model
+- skill: Use MLflow to track experiments and manage machine learning models
+- skill: Integrate Azure Databricks with Azure Machine Learning
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-scientist
+products:
+- azure
+summary: |-
+  Azure Databricks is a cloud-scale platform for data analytics and machine learning. In this one-day course, you'll learn how to use Azure Databricks to explore, prepare, and model data; and integrate Databricks machine learning processes with Azure Machine Learning.
+
+  #### Audience Profile
+
+  This course is designed for data scientists with experience of Pythion who need to learn how to apply their data science and machine learning skills on Azure Databricks
+prerequisitesSection: |-
+  Before attending this course, you should have experience of using Python to work with data, and some knowledge of machine learning concepts. Before attending this course, complete the following learning path on Microsoft Learn:1613
+
+  *   [Create machine learning models](https://docs.microsoft.com/learn/paths/create-machine-learn-models/)
+outlineSection: |-
+  ### Module 1: Introduction to Azure Databricks
+
+  In this module, you will learn how to provision an Azure Databricks workspace and cluster, and use them to work with data.
+
+  #### Lessons
+
+  *   Getting Started with Azure Databricks
+
+  *   Working with Data in Azure Databricks
+
+  #### Lab : Getting Started with Azure Databricks
+
+  ####
+
+  #### Lab : Working with Data in Azure Databricks
+
+  ####
+
+  After completing this module, you will be able to:
+
+  *   Provision an Azure Databricks workspace and cluster
+
+  *   Use Azure Databricks to work with data
+
+  ### Module 2: Training and Evaluating Machine Learning Models
+
+  In this module, you will learn how to use Azure Databricks to prepare data for modeling, and train and validate a machine learning model.
+
+  #### Lessons
+
+  *   Preparing Data for Machine Learning
+
+  *   Training a Machine Learning Model
+
+  #### Lab : Training a Machine Learning Model
+
+  ####
+
+  #### Lab : Preparing Data for Machine Learning
+
+  ####
+
+  After completing this module, you will be able to use Azure Databricks to:
+
+  *   Prepare data for modeling
+
+  *   Train and validate a machine learning model
+
+  ### Module 3: Managing Experiments and Models
+
+  In this module, you will learn how to use MLflow to track experiments running in Azure Databricks, and how to manage machine learning models.
+
+  #### Lessons
+
+  *   Using MLflow to Track Experiments
+
+  *   Managing Models
+
+  #### Lab : Using MLflow to Track Experiments
+
+  ####
+
+  #### Lab : Managing Models
+
+  ####
+
+  After completing this module, you will be able to:
+
+  *   Use MLflow to track experiments
+
+  *   Manage models
+
+  ### Module 4: Integrating Azure Databricks and Azure Machine Learning
+
+  In this module, you will learn how to integrate Azure Databricks with Azure Machine Learning
+
+  #### Lessons
+
+  *   Tracking Experiments with Azure Machine Learning
+
+  *   Deploying Models
+
+  #### Lab : Deploying Models in Azure Machine Learning
+
+  ####
+
+  #### Lab : Running Experiments in Azure Machine Learning
+
+  ####
+
+  After completing this module, you will be able to:
+
+  *   Run Azure Machine Learning experiments on Azure Databricks compute
+
+  *   Deploy models trained on Azure Databricks to Azure Machine Learning

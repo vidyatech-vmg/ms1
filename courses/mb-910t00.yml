@@ -22,6 +22,8 @@ roles:
 - business-owner
 products:
 - dynamics-365
+exams:
+- uid: exam.mb-910
 summary: |-
   This course will provide you with a broad introduction to the customer engagement capabilities of Dynamics 365. You will become familiar with the concept of customer engagement, as well as each of the customer engagement apps, including Dynamics 365 Marketing, Dynamics 365 Sales, Dynamics 365 Customer Service, Dynamics 365 Field Service, and the customer relationship management (CRM) capabilities of Dynamics 365 Project Operations. This course will include lecture as well as hands-on labs.
 
@@ -30,7 +32,7 @@ summary: |-
   People in different roles and at various stages in their careers can benefit from this fundamentals course. This includes IT professionals, business stakeholders and others who want to be exposed to the customer engagement capabilities of Dynamics 365, students, recent graduates, and people changing careers who want to leverage Dynamics 365 to move to the next level.
 prerequisitesSection: Learners should have a fundamental understanding of customer engagement principles and business operations. An understanding of cloud computing is helpful, but isn't necessary.
 outlineSection: |-
-  ### Module 1: Module 1: Learn the Fundamentals of Dynamics 365 Marketing
+  ### Module 1: Learn the Fundamentals of Dynamics 365 Marketing
 
   This module covers the basic concepts of customer engagement and what the customer engagement apps have in common before diving into Dynamics 365 Marketing. We begin with the standard marketing business processes and how Marketing addresses those. Then we examine the product capabilities. Finally, we cover additional marketing apps such as LinkedIn Campaign Manager, Dynamics 365 Customer Voice and Dynamics 365 Customer Insights.
 
@@ -76,7 +78,7 @@ outlineSection: |-
 
   *   Describe additional marketing apps
 
-  ### Module 2: Module 2: Learn the Fundamentals of Dynamics 365 Sales
+  ### Module 2: Learn the Fundamentals of Dynamics 365 Sales
 
   This module provides an introduction to Dynamics 365 Sales. We begin with the standard sales business processes and how Sales addresses those. Then we examine the product capabilities. Finally, we cover additional sales apps such as Sales Insights and Sales Navigator.
 
@@ -104,7 +106,7 @@ outlineSection: |-
 
   *   Describe additional sales apps such as Sales Insights and Sales Navigator
 
-  ### Module 3: Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
+  ### Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
   This module provides an introduction to Dynamics 365 Customer Service. We begin with the standard customer service business processes and how Customer Service addresses those. Then we examine the product capabilities. Finally, we cover additional customer service apps such as Omnichannel for Customer Service, Dynamics 365 Customer Service Insights, Customer Service Scheduling and Connected Customer Service.
 
@@ -132,7 +134,7 @@ outlineSection: |-
 
   *   Describe additional sales apps such as Sales Insights and Sales Navigator
 
-  ### Module 4: Module 4: Learn the Fundamentals of Dynamics 365 Field Service
+  ### Module 4: Learn the Fundamentals of Dynamics 365 Field Service
 
   This module provides an introduction to Dynamics 365 Field Service. We begin with the standard field service business processes and how Field Service addresses those. Then we examine the product capabilities, including work order generation, scheduling, inventory management and asset management.
 
@@ -168,7 +170,7 @@ outlineSection: |-
 
   *   Describe the asset management capabilities of Dynamics 365 Field Service
 
-  ### Module 5: Module 5: Learn the Fundamentals of Dynamics 365 Project Operations (CRM)
+  ### Module 5: Learn the Fundamentals of Dynamics 365 Project Operations (CRM)
 
   This module provides an introduction to the customer engagement aspects of Dynamics 365 Project Operations. We begin with the standard project-based business processes and how Project Operations addresses those. Then we examine the product capabilities, including sales, project management, and resource utilization.
 

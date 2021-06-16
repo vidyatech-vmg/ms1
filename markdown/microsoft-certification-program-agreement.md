@@ -95,11 +95,11 @@ This Microsoft Certification Program Agreement (**"Agreement"**) is a legal docu
 
     2. *Termination for Cause*: Microsoft may immediately terminate this Agreement upon written notice on any of the following events:
 
-        1. You fail to comply with any applicable Certification or recertification requirements,
-        2. You fail to comply with any of the terms of the Agreement or the Guidelines,
-        3. You misrepresent your Credential(s),
-        4. You engage in misappropriation or unauthorized disclosure of any trade secret or confidential information of Microsoft,
-        5. You engage in activities prohibited by law,
+        1. You fail to comply with any applicable Certification or recertification requirements.
+        2. You fail to comply with any of the terms of the Agreement or the Guidelines.
+        3. You misrepresent your Credential(s).
+        4. You engage in misappropriation or unauthorized disclosure of any trade secret or confidential information of Microsoft.
+        5. You engage in activities prohibited by law.
         6. A government agency, or court, finds that the services you provided concerning the Microsoft technologies to which your Microsoft Certification relates are defective in any way.
         7. You misrepresent your certification status, association to Microsoft Partners, or any other relationship with Microsoft. Depending on the severity of noncompliance, you may also be permanently decertified and terminated from the Microsoft Certification program. If this happens, you will also permanently lose your Microsoft Certification credentials.
         

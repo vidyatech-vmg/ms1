@@ -14,7 +14,9 @@ summary: |-
   A candidate for this certification should have 1-2 years professional development experience and experience with Microsoft Azure. In addition, the candidate for this role should have the ability to program in a language supported by Azure and proficiency in Azure SDKs, Azure PowerShell, Azure CLI, data storage options, data connections, APIs, app authentication and authorization, compute and container deployment, debugging, performance tuning, and monitoring.
   
   You may be eligible for ACE college credit if you pass this certification exam. See [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams) for details.
-subTitle: 'This exam measures your ability to accomplish the following technical tasks: develop Azure compute solutions; develop for Azure storage; implement Azure security; monitor, troubleshoot, and optimize Azure solutions; and connect to and consume Azure services and third-party services.'
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: develop Azure compute solutions; develop for Azure storage; implement Azure security; monitor, troubleshoot, and optimize Azure solutions; and connect to and consume Azure services and third-party services.
+
+  Test takers will be able to select the code language (C# or Python) that is included in the questions when they launch the exam if the exam is taken through Person VUE. However, this option is not available on exams taken through PSI. Those questions will contain C# code.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B
 locales:

@@ -1,10 +1,10 @@
 ### YamlMime:Course
 title: Microsoft Dynamics 365 Marketing
 metadata:
-  title: 'Course MB-220T00-A: Microsoft Dynamics 365 Marketing'
-  description: 'Course MB-220T00-A: Microsoft Dynamics 365 Marketing'
+  title: 'Course MB-220T00--A: Microsoft Dynamics 365 Marketing'
+  description: 'Course MB-220T00--A: Microsoft Dynamics 365 Marketing'
 uid: course.mb-220t00
-courseNumber: 'MB-220T00-A'
+courseNumber: 'MB-220T00'
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -25,113 +25,164 @@ roles:
 - functional-consultant
 products:
 - dynamics-365
-- dynamics-marketing
 exams:
 - uid: exam.mb-220
 summary: |-
   This course will review the marketing application configuration needed to drive business growth. It will also dive into lead management, marketing forms and pages, segmentation, and email marketing messages. All these pieces are tied together through interactive customer journey design, including event and survey configuration.
 
-  #### Audience profile
-  This course is designed for IT or marketing professionals who want to learn how to leverage Dynamics 365 Marketing for businesses.
-prerequisitesSection: |-
-  Knowledge of the Dynamics 365 platform and an understanding of basic marketing principles.
-outlineSection: |-
-  ### Module  1&#58; Configure Dynamics 365 Marketing
-  In this module, you will learn about advanced settings, marketing content, templates and integrations in Dynamics 365 for Marketing.
-  #### Lessons
-  - Configure organization and management settings
-  - Configure marketing settings
-  - Configure events settings
+  #### Audience Profile
 
-  After completing this module you will be able to&#58;
-  - Configure advanced settings such as organization, business management, and content.
-  - Manage marketing content and templates.
-  
-  
-  ### Module  2&#58; Manage segments and lists
+  This course is designed for IT or marketing professionals who want to learn how to leverage Dynamics 365 Marketing for businesses.
+prerequisitesSection: Knowledge of the Dynamics 365 platform and an understanding of basic marketing principles. Power Platform experience, especially in model-driven applications, is also recommended.
+outlineSection: |-
+  ### Module 1: Configure Dynamics 365 Marketing
+
+  In this module, you will learn about setting up your Marketing instance and configuring advanced settings.
+
+  #### Lessons
+
+  *   Set up and manage Dynamics 365 Marketing
+
+  *   Configure marketing settings
+
+  After completing this module you will be able to:
+
+  *   Set up your Marketing application.
+
+  *   Configure advanced settings such as organization, business management, and content.
+
+  ### Module 2: Manage segments and lists
+
   This module will review how to create, manage and use segments and subscription centers.
+
   #### Lessons
-  - Create and manage segments
-  - Create and manage subscription centers and lists
-  
-  After completing this module you will be able to&#58;
-  - Create and manage segments.
-  - Create and manage subscription centers.
-  
-  
-  ### Module  3&#58; Manage marketing forms and pages
+
+  *   Create and manage segments
+
+  *   Create and manage subscription centers and lists
+
+  After completing this module you will be able to:
+
+  *   Create and manage segments.
+
+  *   Create and manage subscription centers.
+
+  ### Module 3: Manage marketing forms and pages
+
   This module will cover how to create marketing forms and pages.
+
   #### Lessons
-  - Manage forms
-  - Manage marketing pages
-  
-  After completing this module you will be able to&#58;
-  - Create marketing forms and embed them on marketing pages.
-  - Create a marketing page.
-  - Preview, validate and go live with a marketing page.
-  - Create marketing form and page templates.
-  
-  
-  ### Module  4&#58; Manage leads, accounts, and contacts
+
+  *   Manage forms
+
+  *   Manage marketing pages
+
+  After completing this module you will be able to:
+
+  *   Create marketing forms and embed them on marketing pages.
+
+  *   Create a marketing page.
+
+  *   Preview, validate and go live with a marketing page.
+
+  *   Create marketing form and page templates.
+
+  ### Module 4: Manage leads, accounts, and contacts
+
   This module will cover how to manage customers as accounts or contacts, and how to nurture them through the lead lifecycle.
+
   #### Lessons
-  - Create and manage leads
-  - Manage accounts and contacts
-  
-  After completing this module you will be able to&#58;
-  - Track customers as accounts or contacts.
-  - Create a lead and convert it to an opportunity.
-  - Manage leads through the lead lifecycle.
-  
-  
-  ### Module  5&#58; Manage marketing emails and customer journeys
+
+  *   Create and manage leads
+
+  *   Manage accounts and contacts
+
+  After completing this module you will be able to:
+
+  *   Track customers as accounts or contacts.
+
+  *   Create a lead and convert it to an opportunity.
+
+  *   Manage leads through the lead lifecycle.
+
+  ### Module 5: Manage marketing emails and customer journeys
+
   This module will cover how to create email messages and customer journeys in Dynamics 365 Marketing.
+
   #### Lessons
-  - Create marketing emails
-  - Create customer journeys
-  
-  After completing this module you will be able to&#58;
-  - Create and design email messages.
-  - Preview, validate and go live with email messages.
-  - Save an email message as a template.
-  - Create a customer journey.
-  
-  
-  ### Module  6&#58; Manage events
+
+  *   Create marketing emails
+
+  *   Create customer journeys
+
+  After completing this module you will be able to:
+
+  *   Create and design email messages.
+
+  *   Preview, validate and go live with email messages.
+
+  *   Save an email message as a template.
+
+  *   Create a customer journey.
+
+  ### Module 6: Manage events
+
   This module will review the customer journey creation process.
+
   #### Lessons
-  - Create an on-site event
-  - Create a webinar event
-  - Promote and manage events
-  
-  After completing this module you will be able to&#58;
-  - Create a webinar event.
-  - Create an on-site event.
-  - Promote an event.
-  - Manage the event website.
-  - Configure events settings.
-  
-  
-  ### Module  7&#58; Create surveys with Dynamics 365 Customer Voice
+
+  *   Create an event
+
+  *   Create a webinar event
+
+  *   Promote and manage events
+
+  After completing this module you will be able to:
+
+  *   Create an event.
+
+  *   Create a webinar event using Teams as a webinar provider.
+
+  *   Promote an event.
+
+  *   Manage the event website.
+
+  *   Configure events settings.
+
+  ### Module 7: Create surveys with Dynamics 365 Customer Voice
+
   This module will demonstrate how to create and distribute surveys to customers.
+
   #### Lessons
-  - Create a survey project
-  - Create surveys with Dynamics 365 Customer Voice
-  - Send Dynamics 365 Customer Voice surveys
-  
-  After completing this module you will be able to&#58;
-  - Manage surveys using projects.
-  - Create a survey.
-  - Personalize a survey.
-  - Distribute a survey to customers.
-  
-  
-  ### Module  8&#58; Analyze insights in Dynamics 365 Marketing
+
+  *   Create a survey project
+
+  *   Create surveys with Dynamics 365 Customer Voice
+
+  *   Send Dynamics 365 Customer Voice surveys
+
+  After completing this module you will be able to:
+
+  *   Manage surveys using projects.
+
+  *   Create a survey.
+
+  *   Personalize a survey.
+
+  *   Distribute a survey to customers.
+
+  ### Module 8: Analyze insights in Dynamics 365 Marketing
+
   In this module, you will learn about using insights functionality to view and analyze data related to your marketing initiatives.
+
   #### Lessons
-  - Evaluate marketing initiatives with analytics
-  
-  After completing this module you will be able to&#58;
-  - Use insights to make decisions about marketing efforts.
-  - Score leads.
-  - View insights related to customer journeys and email messages
+
+  *   Evaluate marketing initiatives with analytics
+
+  After completing this module you will be able to:
+
+  *   Use insights to make decisions about marketing eefforts.
+
+  *   Score leads.
+
+  *   View insights related to customer journeys and email messages.

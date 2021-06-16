@@ -7,7 +7,7 @@ uid: course.pl-600t00
 courseNumber: 'PL-600T00'
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
@@ -16,6 +16,8 @@ roles:
 - solution-architect
 products:
 - power-platform
+exams:
+- uid: exam.pl-600
 summary: |-
   The Solution Architect is responsible for the successful design, implementation, deployment and adoption of an overall solution. The Solution Architect ensures that the solution meets the customer’s needs now and in the future. In this course, students will learn about decisions a Solution Architect makes during an implementation, covering security, integrations, Power Apps architecture, Power Automate architecture, and more. This course is designed to give you an introduction to the Solution Architect role.
 

@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-100
 displayName: MS-100
 summary: |-
-  <div><font color='red'><strong>The content of this exam was updated on February 24, 2021. Please download the skills measured document below to see what changed.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>The content of this exam will be updated on June 2, 2021. Please download the skills measured document below to see what will be changing.</strong></font><br/><br/></div>
   
   Candidates for this exam are Microsoft 365 Enterprise Administrators who take part in evaluating, planning, migrating, deploying, and managing Microsoft 365 services. They perform Microsoft 365 tenant management tasks for an enterprise, including its identities, security, compliance, and supporting technologies.
 
@@ -22,7 +22,7 @@ locales:
 levels:
 - advanced
 skills:
-- The content of this exam was updated on February 24, 2021. Please download the exam skills outline below to see what changed.
+- The content of this exam will be updated on June 2, 2021. Please download the exam skills outline below to see what will be changing.
 - Design and implement Microsoft 365 services (25-30%)
 - Manage user identity and roles (25-30%)
 - Manage access and authentication (15-20%)

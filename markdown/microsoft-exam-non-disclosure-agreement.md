@@ -1,7 +1,7 @@
 ---
 title: 'Microsoft Exam Non-disclosure Agreement | Microsoft Docs'
-description: 'Microsoft Exam Non-disclosure Agreement' 
-documentationcenter: NA 
+description: 'Microsoft Exam Non-disclosure Agreement'
+documentationcenter: NA
 author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
@@ -63,22 +63,22 @@ This Agreement is entered into as of the date of Your acceptance between you (�
 
     By taking this exam, You agree that Microsoft, its affiliates and the exam provider may:
 
-    1. share Your personal information and exam data with each other to administer the exam, to improve the testing program and testing experience, to facilitate statistical analyses, and to determine if You passed the exam;
-    2. contact You regarding certificates showing that You passed the exam or information regarding the Microsoft Certification program;
-    3. share Your personal information and exam results with other Microsoft programs, e.g., the Microsoft Partner Network program, to verify Your or Your employer’s compliance with the program requirements;
-    4. share Your information with standards and certification boards affiliated with the academic institution, company or government organization that provided You with an exam voucher; and
-    5. share Your exam results and your personal information with the entity that issued the voucher or that purchased the site license if the exam was made available to You by one of the following methods:
+    -  share Your personal information and exam data with each other to administer the exam, to improve the testing program and testing experience, to facilitate statistical analyses, and to determine if You passed the exam;
+    - contact You regarding certificates showing that You passed the exam or information regarding the Microsoft Certification program;
+    - share Your personal information and exam results with other Microsoft programs, e.g., the Microsoft Partner Network program, to verify Your or Your employer’s compliance with the program requirements;
+    - share Your information with standards and certification boards affiliated with the academic institution, company or government organization that provided You with an exam voucher; and
+    - share Your exam results and your personal information with the entity that issued the voucher or that purchased the site license if the exam was made available to You by one of the following methods:
         - A company or government organization purchased vouchers and then issued the vouchers to its employees or contractors,
         - An academic institution purchased vouchers and then issued the vouchers to its students or employees, or
         - An academic institution or government organization operated an exam test center and did not charge you a standalone fee to take the exam.
         - A government agency that provides training stipends to be applied based on completion conditions and subject to Microsoft’s identified verification process.
-    6. Share your exam results and your personal information with an entity that funded your exam if the funding was made available through a government agency that provides training stipends to be applied based on completion conditions and subject to Microsoft’s identified verification process.
+    - Share your exam results and your personal information with an entity that funded your exam if the funding was made available through a government agency that provides training stipends to be applied based on completion conditions and subject to Microsoft’s identified verification process.
 
     To learn more about the data collection and use practices of Microsoft, please visit [https://privacy.microsoft.com](https://privacy.microsoft.com/). To learn more about the data collection and use practices of the exam provider, please contact the exam provider.
 
 6. **DATA TRANSFER NOTICE**
 
-    Your personal data, exam information and exam results (including personal data collected from the European Union, European Economic Area, and Switzerland) may be transferred to, stored and processed in the United States or any other country in which Microsoft or its affiliates or subcontractors maintain facilities. You appoint Microsoft, its affiliates and the exam provider to perform any such transfer of Your data, exam information and exam results to any such country and to store and process Your data. Microsoft abides by the EU Safe Harbor, and the Swiss Safe Harbor frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union, the European Economic Area, and Switzerland.
+    Your personal data, exam information and exam results (including personal data collected from the European Economic Area, the United Kingdom, and Switzerland) may be transferred to, stored and processed in the United States or any other country in which Microsoft or its affiliates or subcontractors maintain facilities. You appoint Microsoft and its affiliates to perform any such transfer of Your data, exam information and exam results to any such country and to store and process Your data. See [the Microsoft Privacy Statement](https://go.microsoft.com/fwlink/?LinkId=248681) for more information on how we may collect, use and share Your data.
 
 7. **OWNERSHIP AND ALL RIGHTS RESERVED**
 

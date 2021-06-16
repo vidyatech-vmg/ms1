@@ -7,13 +7,15 @@ uid: exam.dp-100
 displayName: DP-100
 summary: |-
   <div>
-  <div><strong>The content of this exam will be updated on May 20, 2021. Please download the skills measured document below to see what will be changing.</strong><br/><br/></div>
+  <div><strong>The content of this exam was updated on May 20, 2021. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
   </div>
   
-  The Azure Data Scientist applies their knowledge of data science and machine learning to implement and run machine learning workloads on Azure; in particular, using Azure Machine Learning Service. This entails planning and creating a suitable working environment for data science workloads on Azure, running data experiments and training predictive models, managing and optimizing models, and deploying machine learning models into production.
+  Candidates for the Azure Data Scientist Associate certification should have subject matter expertise applying data science and machine learning to implement and run machine learning workloads on Azure.
   
-  You may be eligible for ACE college credit if you pass this certification exam. See [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams) for details.
-subTitle: 'This exam measures your ability to accomplish the following technical tasks: set up an Azure Machine Learning workspace; run experiments and train models; optimize and manage models; and deploy and consume models.'
+  Responsibilities for this role include planning and creating a suitable working environment for data science workloads on Azure. You run data experiments and train predictive models. In addition, you manage, optimize, and deploy machine learning models into production.
+  
+  A candidate for this certification should have knowledge and experience in data science and using Azure Machine Learning and Azure Databricks.
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: manage Azure resources for machine learning; run experiments and train models; deploy and operationalize machine learning solutions; and implement responsible machine learning.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA
 practiceTestUrl: https://www.mindhub.com/p/MU-DP-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -26,11 +28,11 @@ locales:
 levels:
 - intermediate
 skills:
-- The content of this exam will be updated on May 20, 2021. Please download the exam skills outline below to see what will be changing.
-- Set up an Azure Machine Learning workspace (30-35%)
-- Run experiments and train models (25-30%)
-- Optimize and manage models (20-25%)
-- Deploy and consume models (20-25%)
+- The content of this exam was updated on May 20, 2021. Please download the exam skills outline below to see what changed.
+- Manage Azure resources for machine learning (25–30%)
+- Run experiments and train models (20–25%)
+- Deploy and operationalize machine learning solutions (35–40%)
+- Implement responsible machine learning (5–10%)
 roles:
 - data-scientist
 products:
@@ -40,10 +42,12 @@ products:
 - azure-machine-learning-studio
 courses:
 - uid: course.dp-100t01
+- uid: course.dp-090t00
 paths:
 - uid: learn.wwl.create-machine-learn-models
 - uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
+- uid: learn.wwl.perform-data-science-azure-databricks
 relatedCertifications:
 - related:
     uid: certification.azure-data-scientist

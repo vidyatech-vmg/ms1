@@ -1,6 +1,6 @@
 ---
-title: Microsoft Retired Courses | Microsoft Docs
-description: Microsoft Retired Courses
+title: Course retirement | Microsoft Docs
+description: Course retirement
 documentationcenter: NA
 author: micsullivan
 ms.topic: article
@@ -10,19 +10,54 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# Retired courseware
+# Course retirement
 
-The following tables list courseware which is either retired or will retire soon. After their retirement dates, courses are no longer sold.
+## About course retirement
 
-If you are looking for MOC On-Demand retired courses, please follow this link: [https://docs.microsoft.com/learn/certifications/retired-on-demand-online-courses](/learn/certifications/retired-on-demand-online-courses)
+Microsoft continuously monitors industry trends and revises certification requirements to keep pace with changes in technology. To help you be on the leading edge of technology and offer you the most relevant training opportunities, we regularly introduce new courses and revise or discontinue older courses.
 
-## Retired courseware: Instructor-led training
+Once a course is retired, it’s no longer available. The course cannot be purchased anymore and people who previously purchased it will no longer have access to the courseware.
+
+## Retired courses: Instructor-led training
+
+* Courseware retirements on May 31st, 2021
+
+    | Course number | Version | Title | Language | Retirement date |
+    | --- | --- | --- | --- | --- |
+    | 40519 | A | Microsoft Cloud Workshop: SAP NetWeaver on Azure | English | 5/31/2021 |
+    | 40527 | A | Microsoft Cloud Workshop: Security baseline on Azure | English | 5/31/2021 |
+    | 40529 | A | Microsoft Cloud Workshop: High Performance Computing | English | 5/31/2021 |
+
+* Courseware retirements on April 30th, 2021
+
+    | Course number | Version | Title | Language | Retirement date |
+    | --- | --- | --- | --- | --- | 
+    | 20537 | B | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack | English | 04/30/2021 |
 
 * Courseware retirements on March 31st, 2021
 
     | Course number | Version | Title | Language | Retirement date |
     | --- | --- | --- | --- | --- |
     | 20778 | C | Analyzing Data with Power BI | English | 03/31/2021 |
+	| 40037 | A | Database Administration Fundamentals: MTA Exam 98-364 | Japanese | 3/31/2021 |
+    | 40038 | A | Networking Fundamentals: MTA Exam 98-366 | Japanese | 3/31/2021 |
+    | 40039 | A | Security Fundamentals: MTA Exam 98-367 | Japanese | 3/31/2021 |
+    | 40040 | A | Windows Server Administration Fundamentals: MTA Exam 98-365 | Japanese | 3/31/2021 |
+    | 40240 | A | MTA Mobility & Device Fundamentals 98-368 Windows (Japanese) | Japanese | 3/31/2021 |
+    | 40241 | A | MTA Cloud Fundamentals 98-369 (Japanese) | Japanese | 3/31/2021 |
+	| 40349 | B | Windows OS Fundamentals | English | 03/31/2021 |
+    | 40361 | A | Software Development Fundamentals: Training for MTA Exam 98-361 | English | 3/31/2021 |
+    | 40362 | A | Windows Development Fundamentals: Training for MTA Exam 98-362 | English | 3/31/2021 |
+    | 40363 | A | Web Development Fundamentals: Training for MTA Exam 98-363 | English | 3/31/2021 |
+    | 40364 | A | Database Administration Fundamentals: Training for MTA Exam 98-364 | English | 3/31/2021 |
+    | 40366 | B | Networking Fundamentals | English | 03/31/2021 |
+    | 40367 | B | Security Fundamentals | English | 03/31/2021 |
+    | 40368 | A | Mobility & Devices Fundamentals: MTA Exam 98-368 | English | 03/31/2021 |
+    | 40369 | A | Cloud Fundamentals: MTA Exam 98-369 | English | 03/31/2021 |
+	| 40372 | A | Microsoft .NET Fundamentals: Training for MTA Exam 98-372 | English | 3/31/2021 |
+    | 40373 | A | Mobile Development Fundamentals: Training for MTA Exam 98-373 | English | 3/31/2021 |
+    | 40374 | A | Gaming Development Fundamentals: MTA Exam 98-374 | English | 3/31/2021 |
+    | 40375 | A | HTML5 Application Development Fundamentals: Training for MTA Exam 98-375 | English | 3/31/2021 |    
 	
 * Courseware retirements on December 31st, 2020
 
@@ -989,7 +1024,7 @@ If you are looking for MOC On-Demand retired courses, please follow this link: [
 
 * Courseware retirements on June 24, 2016
 
-  [Download the complete list of retiring e-learning courses](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
+  [Download the complete list of retiring e-learning courses.](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
 
 * Courseware retirements on June 15, 2016
 
@@ -1025,7 +1060,7 @@ If you are looking for MOC On-Demand retired courses, please follow this link: [
 
 * Courseware retirements on December 31, 2015
 
-  [Download the complete list of retiring instructor-led courses](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
+  [Download the complete list of retiring instructor-led courses.](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
 
 * Courseware retirements on August 31, 2015
 
@@ -1046,7 +1081,7 @@ If you are looking for MOC On-Demand retired courses, please follow this link: [
 
 * Courseware retirements on June 30, 2015
 
-  [Download the complete list of retiring instructor-led learning courses](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
+  [Download the complete list of retiring instructor-led learning courses.](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
 
 * Courseware retirements on January 31, 2015
 
@@ -1139,8 +1174,8 @@ If you are looking for MOC On-Demand retired courses, please follow this link: [
 
 * Courseware retirements on December 29, 2017
 
-  * [Download the complete list of retiring SA e-learning courses](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
-  * [Download the complete list of retiring MSIA e-learning courses](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
+  * [Download the complete list of retiring SA e-learning courses.](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
+  * [Download the complete list of retiring MSIA e-learning courses.](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
 
 * Courseware retirements on August 15, 2017
 
@@ -1150,62 +1185,57 @@ If you are looking for MOC On-Demand retired courses, please follow this link: [
 
 * Courseware retirements on June 30, 2017
 
-  * [Download the complete list of retiring SA e-learning courses](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
-  * [Download the complete list of retiring MSIA e-learning courses](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
+  * [Download the complete list of retiring SA e-learning courses.](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
+  * [Download the complete list of retiring MSIA e-learning courses.](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
 
 * Courseware retirements on June 30, 2015
 
-  * [Download the complete list of retiring e-learning courses](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
+  * [Download the complete list of retiring e-learning courses.](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
 
 * Courseware retirements on March 12, 2014
 
-  * [Download the complete list of retiring e-learning courses](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
+  * [Download the complete list of retiring e-learning courses.](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
 
-## Courseware and MOC On-Demand Retirement Frequently Asked Questions (FAQ)
- 
-**Q: Why are courses retired?**
-  
-Microsoft continuously monitors industry trends and revises certification requirements to keep pace with changes in technology. To ensure that we offer you the most relevant training opportunities, we regularly introduce new courses and revise or discontinue older courses. 
+## Retired courses: MOC On-Demand
 
-**Q: What criteria are used to determine that a course should be retired?**
+All Microsoft Official Course (MOC) On-Demand courses have been retired as of June 30, 2020. For a complete list of the retired courses, visit: [MOC On-Demand Courses are Retired](/learn/certifications/retired-on-demand-online-courses).
+
+## Frequently asked questions about course and MOC On-Demand retirement
  
+**What criteria are used to determine that a course should be retired?**
+
 Typically, a course will be retired in one of the following scenarios:
-
 - The course has been replaced. A new course is released which replaces one or more previous courses and which covers the material in a substantially new manner.
-- If the technology covered in a course is no longer supported by Microsoft, the courseware will typically be retired.
+- If the technology covered in a course is no longer supported by Microsoft, the course will typically be retired.
 - Business decisions related to the success of a course or the costs of keeping a course up to date may lead to retirement.
-- The certification is retired. If the course was designed for a certification that is no longer offered, the courseware may be retired.
+- The certification is retired. If the course was designed for a certification that is no longer offered, the course may be retired.
 - Courses that are offered by non-Microsoft authors through the community-authoring program may be retired for any reason, at the author’s request.
 - Quality concerns may result in course retirement. If quality concerns are identified with a course, it may be retired until the quality can be improved.
-  
-**Q: How will I know if a course is retired?**
-  
+
+**How will I know if a course is retired?**
+
 Microsoft publishes a quarterly list of courses that are retired and those that are scheduled for retirement within the next three to six months. Retirement announcements are shared through communications with training partners, trainers, vendors, and other interested audiences. The course descriptions on the Microsoft Training Catalog and the Courseware Library Catalog are updated with an announcement of the retirement date.
 
-**Q: How can I purchase a course after its retirement date?**
+**How can I purchase a course after its retirement date?**
 
 After their retirement date, courses are no longer sold. The retirement date is published through the catalog webpage for each course and through regular communication channels for each audience. On the effective retirement date, the courseware is marked as no longer for sale. To avoid confusion, the course remains listed as not for sale for a period of time after the effective retirement, until it is archived and removed from the catalog entirely.
 
-**Q: Can I purchase the digital version of a course before retirement and download or use it after the retirement date?**
+**Can I purchase the digital version of a course before retirement and download or use it after the retirement date?**
 
 After the course is retired, you no longer have access to download it. If you downloaded or received the courseware prior to the retirement date, you may use it according to the licensing terms.
 
-**Q: What happens to retired courses that were assigned to me, prior to their retirement, in my Learning Plan and/or added under the “My Courses” section?**
+**What happens to retired courses that were assigned to me, prior to their retirement, in my Learning Plan and/or added under the “My Courses” section?**
 
-You will continue to see these courses in the “My Courses” section after their retirement, but attempting to launch a retired course will result in an error message.
+You will continue to see these courses in the “My Courses” section after their retirement but attempting to launch a retired course will result in an error message.
 
-**Q: If I didn’t complete a course before its retirement, will I be allowed to complete it after it has been retired?**
+**If I did not complete a course before its retirement, will I be allowed to complete it after it has been retired?**
 
 No. After a course is retired, you can no longer access it.
-  
-**Q: How will course activity reports reflect in-progress courses at the time of their retirement?**
+
+**How will course activity reports reflect in-progress courses at the time of their retirement?**
 
 The course activity reports reflect your progress on a course at the time of its retirement. For example, if a course is at 60% completion by a user when the course is retired, the course activity reports will show 60% completion progress. The completion percentage of a course cannot be changed after a course is retired.
 
-**Q: Will I still be able to find a retired course on the online learning site?**
+**Will I still be able to find a retired course on the online learning site?**
 
 No. Retired courses no longer appear in search results or in the course catalog.
-
-**Q: When a course retires, will the associated MOC On-Demand (MOD) retire also?**
-
-Yes. Because the MOD aligns with courseware, when a course retires, the MOD will retire on the same date.
